@@ -1,7 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 #include <TlHelp32.h>
-#define DLL_NAME "monosit.dll"
+#define DLL_NAME "YOUR.DLL"
 #define JUNKS \
 __asm _emit 0x00 \
 __asm _emit 0x01 \
